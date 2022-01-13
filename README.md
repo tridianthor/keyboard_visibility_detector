@@ -1,6 +1,6 @@
 # keyboard_visibility_detector
 
-A new Flutter project.
+Small widget to help you detect whether a keyboard is visible or not.
 
 ## Getting Started
 
