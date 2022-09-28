@@ -1,7 +1,7 @@
 # keyboard_visibility_detector
 
 Small widget to help you detect whether a keyboard is visible or not.
-The code is adapted from https://stackoverflow.com/a/64411797
+The code is adapted from https://stackoverflow.com/a/63241360
 
           KeyboardVisibilityDetector(
             builder: (context, child, isKeyboardVisible) {
